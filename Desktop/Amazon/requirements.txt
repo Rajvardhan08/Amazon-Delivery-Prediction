@@ -1,0 +1,5 @@
+streamlit
+pandas
+joblib
+haversine
+scikit-learn
